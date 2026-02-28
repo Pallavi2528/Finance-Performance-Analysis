@@ -55,7 +55,7 @@ Total Profit = SUM('financial_data'[Profit])
 
 Based on the analysis of the financial data, here are the key takeaways:
 
-* **Market Leadership**: The **United States** leads in sales revenue (~$25M), followed closely by **Canada** (~$25M), making North America the strongest region.
+* **Market Leadership**: The **United States** leads in sales revenue ($25M), followed closely by **Canada** (~$25M), making North America the strongest region.
 * **Profitability Drivers**: The **Government** segment is the most profitable, contributing approximately **$11M** to the total profit.
 * **Operational Efficiency**: The **Small Business** segment also shows strong performance with **$4M** in profit.
 * **Growth Opportunity**: The **Enterprise** segment currently shows a loss of **-$1M**. This indicates a need to review pricing strategies or reduce COGS for this specific segment.
