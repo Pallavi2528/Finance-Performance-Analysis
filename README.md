@@ -33,8 +33,8 @@ The analysis covers several key dimensions:
 
 ## **Dashboard Architecture**
 1. **Top Layer:** KPI Cards for instant visibility of big numbers.
-2. **Middle Layer:** * **Waterfall Chart:** Profit by Segment analysis.
-   * **Bar Charts:** Sales by Country and Profit comparison.
+2. **Middle Layer:** **Waterfall Chart:** Profit by Segment analysis.
+                     **Bar Charts:** Sales by Country and Profit comparison.
 3. **Bottom Layer:** Dynamic Slicers (Country, Product, Time) for deep-dive filtering.
 
 ---
