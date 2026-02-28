@@ -1,6 +1,6 @@
 # **Finance Performance Analysis Dashboard**
 
-## 🚀 **Project Overview**
+##  **Project Overview**
 This project transforms raw financial data into a professional **Power BI Dashboard** to analyze global metrics across segments and countries. It provides actionable insights to optimize sales strategies and improve profitability.
 
 ---
@@ -49,3 +49,14 @@ Total Gross Sales = SUM('financial_data'[Gross Sales])
 
 // Total Profit
 Total Profit = SUM('financial_data'[Profit])
+```
+
+## **Business Insights & Recommendations**
+
+Based on the analysis of the financial data, here are the key takeaways:
+
+* **Market Leadership**: The **United States** leads in sales revenue (~$25M), followed closely by **Canada** (~$25M), making North America the strongest region.
+* **Profitability Drivers**: The **Government** segment is the most profitable, contributing approximately **$11M** to the total profit.
+* **Operational Efficiency**: The **Small Business** segment also shows strong performance with **$4M** in profit.
+* **Growth Opportunity**: The **Enterprise** segment currently shows a loss of **-$1M**. This indicates a need to review pricing strategies or reduce COGS for this specific segment.
+* **Volume Analysis**: A total of **1.13M units** were sold globally, generating a net profit of **$16.89M**.
